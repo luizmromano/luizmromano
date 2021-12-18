@@ -8,4 +8,3 @@
   <img align="center" alt="Luiz-cpp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">
   <img align="center" alt="Luiz-VBA" height="30" width="40" src="https://raw.githubusercontent.com/luizmromano/luizmromano/3a462b3b0ae76acb4d414e19811a8f460b015e84/vbaicon.svg">
 </div>
-  
