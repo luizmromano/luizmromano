@@ -14,7 +14,7 @@
   <img align="center" alt="Luiz-cpp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">
 </div>
   
-  ##
+  ## Social
   
 <div>
   <a href="https://www.linkedin.com/in/luiz-m-romano-a6620a1b9/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
